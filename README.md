@@ -15,4 +15,7 @@ for any named location or zip code provided by OpenWeatherMap's API
  ## Other Requisites
 
  OpenWeatherMap API Key, set as an environment variable >>> https://home.openweathermap.org/api_keys
+
+ ##
+ 
  <img width="1363" height="960" alt="image" src="https://github.com/user-attachments/assets/84be1a7a-9ffc-4f7c-a596-c95bdb601b55" />
